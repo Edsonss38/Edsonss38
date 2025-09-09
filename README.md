@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Onde me encontrar 🌐</p>
+<h2 align="left">Onde me encontrar 🌐</h2>
 
 ###
 
