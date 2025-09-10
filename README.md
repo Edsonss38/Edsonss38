@@ -58,10 +58,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonss38&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
 ###
-
-## 🟡 Pac-Man comendo meus commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edsonss38/Edsonss38/output/pacman-contribution-graph-dark.svg">
