@@ -24,7 +24,7 @@ Atualmente focado em aprender e praticar HTML, CSS e JavaScript para construir i
 <h2 align="left">🎮 Bootcamps e estudos</h2>
 
 <p align="left">
-<a href="https://web.dio.me/track/santander-linux-para-iniciantes" target="_blank">
+<a href="http://dio.me/certificate/OD3AZSQ4/share" target="_blank">
   <img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" height="50" alt="Santander Linux para Iniciantes - DIO" />
 </a>
 </p>
