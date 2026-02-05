@@ -48,7 +48,8 @@ Atualmente focado em HTML, CSS, JavaScript e Linux, construindo projetos prátic
 - Estrutura e boas práticas de HTML5<br>
 - Flexbox e CSS Responsivo<br>
 - Git e versionamento<br>
-- Fundamentos de JavaScript
+- Fundamentos de JavaScript<br>
+- Fundamentos de Linux Server
 </p>
 
 ---
@@ -59,7 +60,7 @@ Atualmente focado em HTML, CSS, JavaScript e Linux, construindo projetos prátic
   <a href="http://dio.me/certificate/OD3AZSQ4/share" target="_blank">
     <img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" height="50" alt="Santander Linux para Iniciantes - DIO" />
   </a>
-  
+  &nbsp;
   <a href="https://assets.dio.me/TyheUlc7v7oeSpmcJecO6aTzTFF5MziMPe7jxZ1CoTc/f:webp/q:80/w:120/L3RyYWNrcy9hMDhlOThlNS05NWZhLTRiNjMtODNhZC00MjFmNTE4MDk2ZWIucG5n" target="_blank">
     <img src="https://assets.dio.me/TyheUlc7v7oeSpmcJecO6aTzTFF5MziMPe7jxZ1CoTc/f:webp/q:80/w:120/L3RyYWNrcy9hMDhlOThlNS05NWZhLTRiNjMtODNhZC00MjFmNTE4MDk2ZWIucG5n" height="50" alt="Santander - Excel com Inteligência Artificial" />
   </a>
@@ -83,8 +84,8 @@ Atualmente focado em HTML, CSS, JavaScript e Linux, construindo projetos prátic
 <h2 align="left">📊 Estatísticas GitHub</h2>
 
 <div align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edsonss38&theme=dracula" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edsonss38&theme=dracula" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edsonss38&theme=dracula&exclude=php,shell" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edsonss38&theme=dracula&exclude=php,shell" />
 </div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edsonss38&theme=dracula" />
