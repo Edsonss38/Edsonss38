@@ -36,6 +36,7 @@ Atualmente focado em HTML, CSS, JavaScript e Linux, construindo projetos prátic
 
 <p align="left">
 🔹 Projeto Linux Server – Guia completo em HTML<br>
+🔹 Página de atalhos do VS Code traduzidos<br>
 🔹 Documentação prática de comandos Linux<br>
 </p>
 
@@ -82,9 +83,11 @@ Atualmente focado em HTML, CSS, JavaScript e Linux, construindo projetos prátic
 <h2 align="left">📊 Estatísticas GitHub</h2>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edsonss38&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonss38&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edsonss38&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edsonss38&theme=github_dark" />
 </div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edsonss38&theme=github_dark" />
 
 ---
 
