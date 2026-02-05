@@ -83,11 +83,11 @@ Atualmente focado em HTML, CSS, JavaScript e Linux, construindo projetos prátic
 <h2 align="left">📊 Estatísticas GitHub</h2>
 
 <div align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edsonss38&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edsonss38&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edsonss38&theme=dracula" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edsonss38&theme=dracula" />
 </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edsonss38&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edsonss38&theme=dracula" />
 
 ---
 
